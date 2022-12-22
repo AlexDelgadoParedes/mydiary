@@ -1,6 +1,6 @@
 {
-  "name": "My Diary",
-  "short_name": "My Diary",
+  "name": "Notes Pro",
+  "short_name": "Notes Pro",
   "background_color": "#fff8e1",
   "theme_color": "#3e2723",
   "display": "standalone",
